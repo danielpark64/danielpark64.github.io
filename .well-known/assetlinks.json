@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.danielpark.alarmapp",
+      "sha256_cert_fingerprints": [
+        "52:6E:DD:8C:33:9F:A3:7C:1E:71:EB:45:95:6A:E4:31:04:64:5C:F3:0F:65:EF:4D:B7:DA:88:B8:49:3C:49:F2",
+        "98:B2:0D:34:19:65:40:2B:01:40:F0:A6:7E:C0:03:6D:B0:DE:F3:8E:93:63:04:55:EE:2C:64:C4:CF:02:26:5D"
+      ]
+    }
+  }
+]
