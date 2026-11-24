@@ -5,7 +5,7 @@
       { "appID": "T5Z6ACK2PU.com.danielpark.alarmapp", "appIDs": ["T5Z6ACK2PU.com.danielpark.alarmapp"],
         "paths": ["/alarm-ios/s/*"], "components": [{ "/": "/alarm-ios/s/*" }] },
       { "appID": "T5Z6ACK2PU.com.danielpark.sayram", "appIDs": ["T5Z6ACK2PU.com.danielpark.sayram"],
-        "paths": ["/sayram/*"], "components": [{ "/": "/sayram/*" }] }
+        "paths": ["/sayram/s/*"], "components": [{ "/": "/sayram/s/*" }] }
     ]
   }
 }
